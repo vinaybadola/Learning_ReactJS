@@ -14,8 +14,8 @@ const Home = () => {
     <>
       <div className='home' id='home'>
         <main>
-          <h1>Music Classes</h1>
-          <p>When words fail,Music Speaks.</p>
+          <h1>TechnoSpark</h1>
+          <p>Solution To all Your Problems.</p>
         </main>
       </div>
 
